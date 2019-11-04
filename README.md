@@ -1,7 +1,5 @@
 # hello-fluffy-world
-My "Hello Fluffy World" Repo 
+My "Hello Fluffy World"
 
-Read me
-
-
+3
 See you later...
